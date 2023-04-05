@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WildFire-27/Quiz-app-mock.git/static/css/main.9e0f0476.css",
+    "main.js": "/WildFire-27/Quiz-app-mock.git/static/js/main.055bd303.js",
+    "static/media/logo.svg": "/WildFire-27/Quiz-app-mock.git/static/media/logo.19141c15e8d74bf85889230543fcca0a.svg",
+    "static/media/owl.svg": "/WildFire-27/Quiz-app-mock.git/static/media/owl.c137c5d43c478cd4bc98593e57c92547.svg",
+    "index.html": "/WildFire-27/Quiz-app-mock.git/index.html",
+    "main.9e0f0476.css.map": "/WildFire-27/Quiz-app-mock.git/static/css/main.9e0f0476.css.map",
+    "main.055bd303.js.map": "/WildFire-27/Quiz-app-mock.git/static/js/main.055bd303.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e0f0476.css",
+    "static/js/main.055bd303.js"
+  ]
+}
