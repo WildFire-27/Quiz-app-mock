@@ -1,0 +1,16 @@
+.QuizHeader {
+  padding: 10px 5px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    background: white;
+    color: #fff;
+    /* border-bottom: 2px solid #153c6c; */
+    font-weight: 500;
+    font-size: 16px;
+    margin: 10px 0;
+    border-bottom: 2px dashed rgba(0, 0, 0, 0.472);
+}
+.QuizHeader div {
+  border-radius: 10px;
+}

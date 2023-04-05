@@ -1,0 +1,39 @@
+.panelfooter {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* .answrap label {
+
+
+
+        border: 1px solid #080d10ab;
+
+        display: flex;
+
+        border-radius: 10px;
+
+        padding: 8px;
+
+        }
+
+        .checked ~ label {
+
+
+
+            background-color:black;
+
+            color: #fff;
+
+            }
+
+
+
+       .answrap input[type="radio"] {
+
+
+
+            display: none;
+
+            }*/
+

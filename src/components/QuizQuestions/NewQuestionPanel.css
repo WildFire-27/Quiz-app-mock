@@ -1,0 +1,30 @@
+.newquestionpanel {
+  margin: 25px auto 30px auto;
+
+  padding: 40px 0px;
+
+  /* background: #a9ee9d; */
+  border-radius: 10px;
+background-color: #e6e6fa3b;
+  text-align: left;
+  /* border: 1px solid #ccc; */
+}
+
+.newquestionpanel button {
+  background-color: lavender;
+  border: 3px dashed black;
+  color: black;
+  padding: 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  font-weight: 700;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 15px;
+  justify-content: center;
+  display: flex;
+  margin: 0px auto;
+}
+
